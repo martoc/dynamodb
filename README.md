@@ -1,3 +1,5 @@
+[![Actions Status](https://github.com/martoc/dynamodb/workflows/Docker%20Image%20CI/badge.svg)](https://github.com/martoc/dynamodb/actions)
+
 # dynamodb
 
 Container that starts dynamodb for local development
