@@ -1,3 +1,7 @@
+# dynamodb
+
+Container that starts dynamodb for local development
+
 # docker-compose.yml
 ```
 version: "2"
